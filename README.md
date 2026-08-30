@@ -6,7 +6,7 @@
 [![Followers](https://img.shields.io/github/followers/Yadu0908?label=followers&style=flat-square&color=d3869b)](https://github.com/Yadu0908)
 [![Stars](https://img.shields.io/github/stars/Yadu0908?style=flat-square&color=83a598)](https://github.com/Yadu0908)
 
-<img src="https://i.gifer.com/Xqg8.gif" width="400" height = "100"/>
+<img src="https://i.gifer.com/Xqg8.gif" width="400" height = "400"/>
 
 </div>
 
