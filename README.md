@@ -1,28 +1,25 @@
 <div align="center">
 
-# 💻 Yadwandra Thuwal
+# <code>💻 Yadwandra Thuwal</code>
+`Software Developer & Curious Mind`
 
-<a href="https://github.com/Yadu0908">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vcenter=true&width=580&lines=Software+Developer+%26+Tech+Explorer;Building+Production+Web+%26+Mobile+Apps;Crafting+Design+Systems+%26+NPM+Packages;Exploring+AI+Tools+%26+Automated+Workflows" alt="Typing SVG" />
-</a>
+<br/>
 
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Yadu0908&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/Yadu0908)
-[![Followers](https://img.shields.io/github/followers/Yadu0908?label=Followers&style=for-the-badge&color=6366f1)](https://github.com/Yadu0908)
-[![Stars](https://img.shields.io/github/stars/Yadu0908?style=for-the-badge&color=6366f1)](https://github.com/Yadu0908)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yadu0908&label=Profile%20Views&color=fe8019&style=for-the-badge)](https://github.com/Yadu0908)
+[![Followers](https://img.shields.io/github/followers/Yadu0908?label=Followers&style=for-the-badge&color=d3869b)](https://github.com/Yadu0908)
+[![Stars](https://img.shields.io/github/stars/Yadu0908?style=for-the-badge&color=83a598)](https://github.com/Yadu0908)
 
 </div>
 
 ---
 
-### `📁 src / developer.ts`
+### <code>📁 src/developer.ts</code>
 
 ```typescript
 const developer = {
   name: "Yadwandra Thuwal",
-  role: "Software Developer & Tech Explorer",
-  education: "B.Tech in Computer Science & Engineering (Final Year)",
+  role: "Software Developer & Curious Mind",
+  education: "B.Tech in Computer Science & Engineering (Graduated - 2026)",
   stack: ["React", "TypeScript", "Node.js", "Python", "Flutter", "TailwindCSS"],
   focus: ["Scalable Design Systems", "NPM Component Libraries", "AI Tools"],
   pronouns: "He / Him",
@@ -32,18 +29,18 @@ const developer = {
 
 ---
 
-### `📁 src / about_me.md`
+### <code>📁 src/about_me.md</code>
 
-- 💻 **Software Developer & Tech Explorer** with a strong passion for clean code and modern product engineering.
-- 🎓 **B.Tech in Computer Science & Engineering** (Final Year).
-- ⚡ **Core Engineering Focus:** Production frontends with **React** & **TypeScript**, cross-platform apps with **Flutter**, and backend API integrations.
-- 📦 Published reusable component library on **npm** complete with interactive **Storybook** documentation.
-- 🤖 Active user of **AI Developer Tools**, builder of **Chrome Extensions**, and optimizer of dev velocity.
-- 💬 **Ask me about:** Frontend Architecture, Component Libraries, Mobile Apps & Web Tech.
+- `// ROLE` — 💻 **Software Developer & Tech Explorer** with a drive for clean architecture & modular code.
+- `// ACADEMICS` — 🎓 **B.Tech in Computer Science & Engineering** (Graduated - 2026).
+- `// CORE FOCUS` — ⚡ Production frontends with **React** & **TypeScript**, mobile apps with **Flutter**, and backend API integrations.
+- `// PACKAGES` — 📦 Published reusable component library on **npm** complete with interactive **Storybook** documentation.
+- `// WORKFLOW` — 🤖 Active user of **AI Developer Tools**, builder of **Chrome Extensions**, and workflow optimization enthusiast.
+- `// CONNECT` — 💬 **Ask me about:** Frontend Architecture, Component Libraries, Mobile Apps & Web Tech.
 
 ---
 
-### `📁 src / tech_stack.json`
+### <code>📁 src/tech_stack.json</code>
 
 #### `// Programming Languages`
 <a href="https://skillicons.dev">
@@ -76,7 +73,7 @@ const developer = {
 
 ---
 
-### `📁 src / projects.json`
+### <code>📁 src/projects.json</code>
 
 <details open>
 <summary><code>📦 package.json // NPM UI Component Library</code></summary>
@@ -104,19 +101,27 @@ End-to-end booking platform with role-based access control, dynamic scheduling a
 
 ---
 
-### `📁 src / metrics.log`
+### <code>📁 src/metrics.log</code>
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/Yadu0908">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox_light&hide_border=true">
+            <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox&hide_border=true" height="195" />
+          </picture>
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/Yadu0908">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox_light&hide_border=true">
+            <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox&hide_border=true" height="195" />
+          </picture>
         </a>
       </td>
     </tr>
@@ -125,7 +130,7 @@ End-to-end booking platform with role-based access control, dynamic scheduling a
 
 <br/>
 
-#### `// Contribution Grid Snake`
+#### <code>// Contribution Grid Snake</code>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadu0908/Yadu0908/output/github-contribution-grid-snake-dark.svg">
@@ -136,22 +141,26 @@ End-to-end booking platform with role-based access control, dynamic scheduling a
 
 ---
 
-### `📁 src / quote.txt`
+### <code>📁 src/quote.txt</code>
 
 <div align="center">
   <a href="https://github.com/Yadu0908">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
+      <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox_light">
+      <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+    </picture>
   </a>
 </div>
 
 ---
 
-### `📁 src / connect.sh`
+### <code>📁 src/connect.sh</code>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadwandrathuwal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github=logoColor=white)](https://github.com/Yadu0908)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yadu0908)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadwandrayadu@gmail.com)
 
 </div>
