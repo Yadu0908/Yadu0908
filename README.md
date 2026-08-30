@@ -1,70 +1,71 @@
 <div align="center">
 
-# ⚡ YADWANDRA THUWAL ⚡
-### 🧪 *The Mad Developer & Tech Alchemist* 🧪
+# 💻 Yadwandra Thuwal
 
 <a href="https://github.com/Yadu0908">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=6366F1&center=true&vcenter=true&width=620&lines=%E2%9A%A1+MAD+DEVELOPER+%26+TECH+ALCHEMIST;%F0%9F%94%A5+TURNING+COFFEE+INTO+PRODUCTION+CODE;%F0%9F%9A%80+FULL-STACK+%2B+AI+AUTOMATION+OBSESSED;%F0%9F%92%A1+BUILDING+NEXT-GEN+SOFTWARE+SYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vcenter=true&width=580&lines=Software+Developer+%26+Tech+Explorer;Building+Production+Web+%26+Mobile+Apps;Crafting+Design+Systems+%26+NPM+Packages;Exploring+AI+Tools+%26+Automated+Workflows" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Status](https://img.shields.io/badge/STATUS-COFFEENATED_%26_CODING-FF5722?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/Yadu0908)
-[![Mode](https://img.shields.io/badge/MODE-MAD_CODER_⚡-8A2BE2?style=for-the-badge)](https://github.com/Yadu0908)
-[![Profile Views](https://komarev.com/ghpvc/?username=Yadu0908&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge)](https://github.com/Yadu0908)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yadu0908&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/Yadu0908)
+[![Followers](https://img.shields.io/github/followers/Yadu0908?label=Followers&style=for-the-badge&color=6366f1)](https://github.com/Yadu0908)
+[![Stars](https://img.shields.io/github/stars/Yadu0908?style=for-the-badge&color=6366f1)](https://github.com/Yadu0908)
 
 </div>
 
 ---
 
-## ⚡ // THE MAD CODER MANIFESTO
-```json
-{
-  "developer": "Yadwandra Thuwal",
-  "status": "PUSHING COMMITS & BREAKING LIMITS 🚀",
-  "energy": "100% UNSTOPPABLE",
-  "currently_cooking": ["AI Agents", "High-Performance Systems", "Custom NPM Packages"],
-  "quote": "If it ain't broken, refactor it until it flies."
-}
+### `📁 src / developer.ts`
+
+```typescript
+const developer = {
+  name: "Yadwandra Thuwal",
+  role: "Software Developer & Tech Explorer",
+  education: "B.Tech in Computer Science & Engineering (Final Year)",
+  stack: ["React", "TypeScript", "Node.js", "Python", "Flutter", "TailwindCSS"],
+  focus: ["Scalable Design Systems", "NPM Component Libraries", "AI Tools"],
+  pronouns: "He / Him",
+  status: "Building production UIs & exploring modern tech stacks 🚀"
+};
 ```
 
 ---
 
-## 🔥 // WHO IS THIS MAD DEVELOPER?
-* 🧪 **Mad Lab Focus:** Full-Stack Systems, AI Automation, Component Architecture & High-Performance UIs
-* ⚡ **Superpower:** Turning complex architectural problems into clean, modular, lightning-fast code
-* 💥 **Current Quest:** Crafting production systems, mobile apps, and developer tools at 3 AM
-* 🧠 **Obsession:** Zero-bug codebases, pixel-perfect UX, and cutting-edge tech stacks
-* ☕ **Fuel:** Dark Roast Coffee, Lo-Fi Beats & Pure Curiosity
-* 🎓 **Academic Grounding:** Final Year B.Tech in Computer Science & Engineering
-* 💬 **Ask Me About:** Literally anything code—Web, Mobile, AI, Architecture & Chrome Extensions
-* 🙋‍♂️ **Pronouns:** He / Him
+### `📁 src / about_me.md`
+
+- 💻 **Software Developer & Tech Explorer** with a strong passion for clean code and modern product engineering.
+- 🎓 **B.Tech in Computer Science & Engineering** (Final Year).
+- ⚡ **Core Engineering Focus:** Production frontends with **React** & **TypeScript**, cross-platform apps with **Flutter**, and backend API integrations.
+- 📦 Published reusable component library on **npm** complete with interactive **Storybook** documentation.
+- 🤖 Active user of **AI Developer Tools**, builder of **Chrome Extensions**, and optimizer of dev velocity.
+- 💬 **Ask me about:** Frontend Architecture, Component Libraries, Mobile Apps & Web Tech.
 
 ---
 
-## ⚔️ // THE TECH ARSENAL
+### `📁 src / tech_stack.json`
 
-### 💥 Combat Languages
+#### `// Programming Languages`
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,php,py,cpp,cs,java,kotlin,dart,go,rust,html,css" alt="Languages" />
 </a>
 
-### 🛡️ Frameworks & Heavy Weaponry
+#### `// Frameworks & Libraries`
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,next,vue,nuxtjs,flutter,tailwind,redux,nodejs,express" alt="Frameworks" />
 </a>
 
-### 💾 Data Vaults & Cloud
+#### `// Databases & Cloud Services`
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Databases" />
 </a>
 
-### ⚙️ Forge & Tooling
+#### `// Developer Tools & Editors`
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,docker,storybook,npm,postman" alt="Dev Tools" />
 </a>
 
-### 🧠 AI Amplifiers
+#### `// AI Tools & Workflow Enhancers`
 <p align="left">
   <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/-Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -75,35 +76,35 @@
 
 ---
 
-## 🏆 // SHIPPED CREATIONS & LAB EXPERIMENTS
+### `📁 src / projects.json`
 
 <details open>
-<summary><b>📦 Production NPM UI Component Library</b></summary>
+<summary><code>📦 package.json // NPM UI Component Library</code></summary>
 <br/>
-A fully documented, reusable React & TypeScript component library published on <b>npm</b>. Integrated interactive <b>Storybook</b> documentation to eliminate redundant code and accelerate dev speed.
+A production-grade, reusable UI component library built with React & TypeScript published on <b>npm</b>. Features interactive <b>Storybook</b> documentation for rapid UI prototyping and team reuse.
 </details>
 
 <details>
-<summary><b>🧩 Cyberpunk Chrome Extension</b></summary>
+<summary><code>🧩 extension.config.ts // Productivity Chrome Extension</code></summary>
 <br/>
-Utility browser extension engineered for tab management, automated developer shortcuts, and power-user workflows.
+Browser productivity utility extension crafted to streamline tab management, keyboard shortcuts, and developer workflow tools.
 </details>
 
 <details>
-<summary><b>📱 Cross-Platform Flutter + Firebase App</b></summary>
+<summary><code>📱 main.dart // Flutter + Firebase Mobile App</code></summary>
 <br/>
-Real-time mobile application leveraging Firebase for live database synchronization, user authentication, and cloud events.
+Cross-platform mobile application utilizing Firebase for real-time database synchronization, user authentication, and cloud events.
 </details>
 
 <details>
-<summary><b>📅 Full-Stack Booking Architecture</b></summary>
+<summary><code>📅 server.js // Full-Stack Booking Platform</code></summary>
 <br/>
-End-to-end booking platform built with multi-role access control, dynamic scheduling logic, and robust relational data models.
+End-to-end booking platform with role-based access control, dynamic scheduling algorithms, and relational database management.
 </details>
 
 ---
 
-## 📈 // BATTLE METRICS & STREAK
+### `📁 src / metrics.log`
 
 <div align="center">
   <table border="0">
@@ -124,7 +125,7 @@ End-to-end booking platform built with multi-role access control, dynamic schedu
 
 <br/>
 
-### 🐍 // CONTRIBUTION GRID SNAKE
+#### `// Contribution Grid Snake`
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadu0908/Yadu0908/output/github-contribution-grid-snake-dark.svg">
@@ -135,7 +136,7 @@ End-to-end booking platform built with multi-role access control, dynamic schedu
 
 ---
 
-## 💡 // DAILY DEV MOTTO
+### `📁 src / quote.txt`
 
 <div align="center">
   <a href="https://github.com/Yadu0908">
@@ -145,12 +146,12 @@ End-to-end booking platform built with multi-role access control, dynamic schedu
 
 ---
 
-## 🤝 // CONNECT WITH THE MAD CODER
+### `📁 src / connect.sh`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadwandrathuwal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yadu0908)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github=logoColor=white)](https://github.com/Yadu0908)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadwandrayadu@gmail.com)
 
 </div>
