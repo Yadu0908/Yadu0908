@@ -13,9 +13,9 @@
 
 ### About
 
-Frontend developer interning at **Advenx Entertainment**, building production UI with React and TypeScript. I also maintain a component library I published to npm, with Storybook docs so the team isn't rebuilding the same components repeatedly. Previously worked at Prodesk IT and Engineering Services, building React components and Node.js APIs for client projects.
+Frontend developer interning at **Advenx Entertainment**, building production UI with React and TypeScript. I also maintain a component library I published to npm, with Storybook docs so the team isn't rebuilding the same components repeatedly. Previously interned at Prodesk IT and Engineering Services, building React components and Node.js APIs for client projects.
 
-Outside work I build my own things, a Chrome extension, a Flutter + Firebase app, a full-stack booking system — and I'm finishing my B.Tech in Computer Science.
+Outside work I build my own things — a Chrome extension, a Flutter + Firebase app, a full-stack booking system — and I'm finishing my B.Tech in Computer Science.
 
 📫 **yadwandrayadu@gmail.com**
 
