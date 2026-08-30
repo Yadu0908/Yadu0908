@@ -1,55 +1,70 @@
 <div align="center">
 
-# 💫 Yadwandra Thuwal
+# ⚡ YADWANDRA THUWAL ⚡
+### 🧪 *The Mad Developer & Tech Alchemist* 🧪
 
 <a href="https://github.com/Yadu0908">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vcenter=true&width=550&lines=Software+Developer;Full-Stack+%26+Mobile+Explorer;Crafting+Production+Design+Systems;Building+AI-Powered+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=6366F1&center=true&vcenter=true&width=620&lines=%E2%9A%A1+MAD+DEVELOPER+%26+TECH+ALCHEMIST;%F0%9F%94%A5+TURNING+COFFEE+INTO+PRODUCTION+CODE;%F0%9F%9A%80+FULL-STACK+%2B+AI+AUTOMATION+OBSESSED;%F0%9F%92%A1+BUILDING+NEXT-GEN+SOFTWARE+SYSTEMS" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Yadu0908&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/Yadu0908)
-[![Followers](https://img.shields.io/github/followers/Yadu0908?label=Follow&style=for-the-badge&color=6366f1)](https://github.com/Yadu0908)
-[![Stars](https://img.shields.io/github/stars/Yadu0908?style=for-the-badge&color=6366f1)](https://github.com/Yadu0908)
+[![Status](https://img.shields.io/badge/STATUS-COFFEENATED_%26_CODING-FF5722?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/Yadu0908)
+[![Mode](https://img.shields.io/badge/MODE-MAD_CODER_⚡-8A2BE2?style=for-the-badge)](https://github.com/Yadu0908)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yadu0908&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge)](https://github.com/Yadu0908)
 
 </div>
 
 ---
 
-## 📌 About Me
-* 🚀 **Curious Coder & Software Developer** passionate about building modern tech products
-* 🎓 **B.Tech in Computer Science & Engineering** (Final Year)
-* ⚡ Engineering scalable web, mobile & full-stack software solutions
-* 📦 Published reusable UI component libraries on **npm** with **Storybook**
-* 🤖 Experimenting with **AI Tools**, **Browser Extensions** & novel software automation
-* 💬 **Ask me about:** Full-Stack Web Dev, Design Systems, Clean Architecture & Tech
+## ⚡ // THE MAD CODER MANIFESTO
+```json
+{
+  "developer": "Yadwandra Thuwal",
+  "status": "PUSHING COMMITS & BREAKING LIMITS 🚀",
+  "energy": "100% UNSTOPPABLE",
+  "currently_cooking": ["AI Agents", "High-Performance Systems", "Custom NPM Packages"],
+  "quote": "If it ain't broken, refactor it until it flies."
+}
+```
+
+---
+
+## 🔥 // WHO IS THIS MAD DEVELOPER?
+* 🧪 **Mad Lab Focus:** Full-Stack Systems, AI Automation, Component Architecture & High-Performance UIs
+* ⚡ **Superpower:** Turning complex architectural problems into clean, modular, lightning-fast code
+* 💥 **Current Quest:** Crafting production systems, mobile apps, and developer tools at 3 AM
+* 🧠 **Obsession:** Zero-bug codebases, pixel-perfect UX, and cutting-edge tech stacks
+* ☕ **Fuel:** Dark Roast Coffee, Lo-Fi Beats & Pure Curiosity
+* 🎓 **Academic Grounding:** Final Year B.Tech in Computer Science & Engineering
+* 💬 **Ask Me About:** Literally anything code—Web, Mobile, AI, Architecture & Chrome Extensions
 * 🙋‍♂️ **Pronouns:** He / Him
 
 ---
 
-## 🛠️ Tech Stack & Toolkits
+## ⚔️ // THE TECH ARSENAL
 
-### 💻 Programming Languages
+### 💥 Combat Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,php,py,cpp,cs,java,kotlin,dart,go,rust,html,css" alt="Languages" />
 </a>
 
-### ⚡ Frameworks & Libraries
+### 🛡️ Frameworks & Heavy Weaponry
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,next,vue,nuxtjs,flutter,tailwind,redux,nodejs,express" alt="Frameworks" />
 </a>
 
-### 🗄️ Databases & Cloud Services
+### 💾 Data Vaults & Cloud
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Databases" />
 </a>
 
-### 🛠️ Developer Tools & Editors
+### ⚙️ Forge & Tooling
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,docker,storybook,npm,postman" alt="Dev Tools" />
 </a>
 
-### 🤖 AI Tools & Assistants
+### 🧠 AI Amplifiers
 <p align="left">
   <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/-Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -60,35 +75,35 @@
 
 ---
 
-## 🚀 Featured Projects & Highlights
+## 🏆 // SHIPPED CREATIONS & LAB EXPERIMENTS
 
 <details open>
 <summary><b>📦 Production NPM UI Component Library</b></summary>
 <br/>
-A fully documented, reusable React & TypeScript component library published to <b>npm</b>. Features interactive <b>Storybook</b> configurations to eliminate code duplication and speed up engineering workflows.
+A fully documented, reusable React & TypeScript component library published on <b>npm</b>. Integrated interactive <b>Storybook</b> documentation to eliminate redundant code and accelerate dev speed.
 </details>
 
 <details>
-<summary><b>🧩 Productivity Chrome Extension</b></summary>
+<summary><b>🧩 Cyberpunk Chrome Extension</b></summary>
 <br/>
-Utility browser extension crafted to automate tab management, workflow shortcuts, and developer productivity tools.
+Utility browser extension engineered for tab management, automated developer shortcuts, and power-user workflows.
 </details>
 
 <details>
-<summary><b>📱 Flutter + Firebase Mobile App</b></summary>
+<summary><b>📱 Cross-Platform Flutter + Firebase App</b></summary>
 <br/>
-Cross-platform mobile application utilizing Firebase for real-time data sync, authentication, and cloud messaging.
+Real-time mobile application leveraging Firebase for live database synchronization, user authentication, and cloud events.
 </details>
 
 <details>
-<summary><b>📅 Full-Stack Booking Platform</b></summary>
+<summary><b>📅 Full-Stack Booking Architecture</b></summary>
 <br/>
-Comprehensive booking system built with role-based access control, scheduling logic, and database management.
+End-to-end booking platform built with multi-role access control, dynamic scheduling logic, and robust relational data models.
 </details>
 
 ---
 
-## 📈 Git Activity & Streak
+## 📈 // BATTLE METRICS & STREAK
 
 <div align="center">
   <table border="0">
@@ -109,7 +124,7 @@ Comprehensive booking system built with role-based access control, scheduling lo
 
 <br/>
 
-### 🐍 Contribution Grid Snake
+### 🐍 // CONTRIBUTION GRID SNAKE
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadu0908/Yadu0908/output/github-contribution-grid-snake-dark.svg">
@@ -120,7 +135,7 @@ Comprehensive booking system built with role-based access control, scheduling lo
 
 ---
 
-## 💡 Daily Dev Quote
+## 💡 // DAILY DEV MOTTO
 
 <div align="center">
   <a href="https://github.com/Yadu0908">
@@ -130,7 +145,7 @@ Comprehensive booking system built with role-based access control, scheduling lo
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 // CONNECT WITH THE MAD CODER
 
 <div align="center">
 
