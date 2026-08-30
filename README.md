@@ -65,9 +65,11 @@
 ## 📈 Git Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yadu0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Yadwandra's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Yadu0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Yadwandra's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
