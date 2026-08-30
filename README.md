@@ -1,166 +1,145 @@
-<div align="center">
+﻿<div align="center">
 
-# <code>💻 Yadwandra Thuwal</code>
-`Software Developer & Curious Mind`
+# Yadwandra Thuwal
 
-<br/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Yadu0908&label=views&color=fe8019&style=flat-square)](https://github.com/Yadu0908)
+[![Followers](https://img.shields.io/github/followers/Yadu0908?label=followers&style=flat-square&color=d3869b)](https://github.com/Yadu0908)
+[![Stars](https://img.shields.io/github/stars/Yadu0908?style=flat-square&color=83a598)](https://github.com/Yadu0908)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Yadu0908&label=Profile%20Views&color=fe8019&style=for-the-badge)](https://github.com/Yadu0908)
-[![Followers](https://img.shields.io/github/followers/Yadu0908?label=Followers&style=for-the-badge&color=d3869b)](https://github.com/Yadu0908)
-[![Stars](https://img.shields.io/github/stars/Yadu0908?style=for-the-badge&color=83a598)](https://github.com/Yadu0908)
+<img src="https://i.gifer.com/WiqN.gif" width="400" />
 
 </div>
 
 ---
 
-### <code>📁 src/developer.ts</code>
-
-```typescript
-const developer = {
-  name: "Yadwandra Thuwal",
-  role: "Software Developer & Curious Mind",
-  education: "B.Tech in Computer Science & Engineering (Graduated - 2026)",
-  stack: ["React", "TypeScript", "Node.js", "Python", "Flutter", "TailwindCSS"],
-  focus: ["Scalable Design Systems", "NPM Component Libraries", "AI Tools"],
-  pronouns: "He / Him",
-  status: "Building production UIs & exploring modern tech stacks 🚀"
-};
+```bash
+$ whoami
+```
+```
+Yadwandra Thuwal  ·  goes by Yadu  ·  Haldwani, India 
+B.Tech CSE, 2026  ·  npm publisher by hobby
+currently: building things, breaking things, fixing things (in that order)
 ```
 
 ---
 
-### <code>📁 src/about_me.md</code>
+```bash
+$ ls ./projects
+```
 
-- `// ROLE` — 💻 **Software Developer & Tech Explorer** with a drive for clean architecture & modular code.
-- `// ACADEMICS` — 🎓 **B.Tech in Computer Science & Engineering** (Graduated - 2026).
-- `// CORE FOCUS` — ⚡ Production frontends with **React** & **TypeScript**, mobile apps with **Flutter**, and backend API integrations.
-- `// PACKAGES` — 📦 Published reusable component library on **npm** complete with interactive **Storybook** documentation.
-- `// WORKFLOW` — 🤖 Active user of **AI Developer Tools**, builder of **Chrome Extensions**, and workflow optimization enthusiast.
-- `// CONNECT` — 💬 **Ask me about:** Frontend Architecture, Component Libraries, Mobile Apps & Web Tech.
-
----
-
-### <code>📁 src/tech_stack.json</code>
-
-#### `// Programming Languages`
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,py,cpp,cs,java,kotlin,dart,go,rust,html,css" alt="Languages" />
-</a>
-
-#### `// Frameworks & Libraries`
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,nuxtjs,flutter,tailwind,redux,nodejs,express" alt="Frameworks" />
-</a>
-
-#### `// Databases & Cloud Services`
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Databases" />
-</a>
-
-#### `// Developer Tools & Editors`
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,docker,storybook,npm,postman" alt="Dev Tools" />
-</a>
-
-#### `// AI Tools & Workflow Enhancers`
-<p align="left">
-  <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/-Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
-  <img src="https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-</p>
-
----
-
-### <code>📁 src/projects.json</code>
-
-<details open>
-<summary><code>📦 package.json // NPM UI Component Library</code></summary>
+<details>
+<summary>&nbsp;<b>📦 npm-ui-kit</b> — React + TypeScript component library</summary>
 <br/>
-A production-grade, reusable UI component library built with React & TypeScript published on <b>npm</b>. Features interactive <b>Storybook</b> documentation for rapid UI prototyping and team reuse.
+
+Got tired of copying the same Button component into every project. So I packaged it. Then added more. Then wrote Storybook docs for it. Now it lives on npm and I use it myself. That’s the whole story.
+
+`react` `typescript` `storybook` `rollup` `npm`
+
 </details>
 
 <details>
-<summary><code>🧩 extension.config.ts // Productivity Chrome Extension</code></summary>
+<summary>&nbsp;<b>🧩 chrome-ext</b> — Productivity browser extension</summary>
 <br/>
-Browser productivity utility extension crafted to streamline tab management, keyboard shortcuts, and developer workflow tools.
+
+I had too many tabs open. Built an extension to fix that. Keyboard-first, no fluff. Ended up using it daily, which I guess means it worked.
+
+`chrome apis` `javascript` `manifest v3`
+
 </details>
 
 <details>
-<summary><code>📱 main.dart // Flutter + Firebase Mobile App</code></summary>
+<summary>&nbsp;<b>📱 flutter-app</b> — Cross-platform mobile app</summary>
 <br/>
-Cross-platform mobile application utilizing Firebase for real-time database synchronization, user authentication, and cloud events.
+
+Firebase + Flutter. Real-time sync, auth, cloud stuff. Wrote it once, ran it on both Android and iOS without changing a line. Still feels illegal.
+
+`flutter` `dart` `firebase`
+
 </details>
 
 <details>
-<summary><code>📅 server.js // Full-Stack Booking Platform</code></summary>
+<summary>&nbsp;<b>📅 booking-platform</b> — Full-stack scheduling app</summary>
 <br/>
-End-to-end booking platform with role-based access control, dynamic scheduling algorithms, and relational database management.
+
+Roles, schedules, database constraints. The kind of project that teaches you what "edge case" really means at 2am.
+
+`node.js` `postgres` `react` `express`
+
 </details>
 
 ---
 
-### <code>📁 src/metrics.log</code>
+```bash
+$ cat stack.json | jq
+```
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Yadu0908">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox_light&hide_border=true">
-            <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox&hide_border=true" height="195" />
-          </picture>
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Yadu0908">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox_light&hide_border=true">
-            <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox&hide_border=true" height="195" />
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="left">
+
+**Languages**
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,php,cpp,html,css" /></a>
+
+**Frontend**
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,redux" /></a>
+
+**Backend & Databases**
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" /></a>
+
+**Tools**
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,firebase,docker,figma,storybook,npm,postman" /></a>
+
+**AI tools** — `chatgpt` `claude` `copilot` `gemini` `cursor` ← yes, all five. no shame.
+
 </div>
 
-<br/>
+---
 
-#### <code>// Contribution Grid Snake</code>
+```bash
+$ git log --oneline --graph
+```
+
 <div align="center">
+  <table border="0"><tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox_light&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadu0908&theme=gruvbox&hide_border=true" height="175"/>
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox_light&hide_border=true">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=gruvbox&hide_border=true" height="175"/>
+      </picture>
+    </td>
+  </tr></table>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadu0908/Yadu0908/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yadu0908/Yadu0908/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Yadu0908/Yadu0908/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/Yadu0908/Yadu0908/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 ---
 
-### <code>📁 src/quote.txt</code>
-
-<div align="center">
-  <a href="https://github.com/Yadu0908">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
-      <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox_light">
-      <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-    </picture>
-  </a>
-</div>
-
----
-
-### <code>📁 src/connect.sh</code>
+```bash
+$ curl yadu.dev/reach-me
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadwandrathuwal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yadu0908)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadwandrayadu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadwandrathuwal)
+[![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadwandrayadu@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yadu0908)
+
+<br/>
+
+`say hi. i actually reply.`
 
 </div>
