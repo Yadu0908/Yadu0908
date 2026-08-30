@@ -7,6 +7,8 @@
 [![Portfolio views](https://komarev.com/ghpvc/?username=Yadu0908&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/Yadu0908)
 [![GitHub followers](https://img.shields.io/github/followers/Yadu0908?label=Follow&style=for-the-badge&color=6366f1)](https://github.com/Yadu0908)
 
+
+
 </div>
 
 ---
@@ -56,18 +58,12 @@ Outside work I build my own things — a Chrome extension, a Flutter + Firebase 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yadu0908&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadu0908&layout=compact&theme=dark&hide_border=true" />
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Yadu0908&size=compact&show_emoji=true)
 </div>
-
----
-
-### Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yadu0908&theme=react-dark&hide_border=true" />
+<img src="https://ghstats.dev/api/sparkline?username=Yadu0908&days=90&width=500&height=100&theme=tokyonight" alt="Contribution Sparkline" />
 
 </div>
 
