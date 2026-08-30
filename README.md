@@ -72,28 +72,15 @@ Roles, schedules, database constraints. The kind of project that teaches you wha
 ```bash
 $ cat stack.json | jq
 ```
-
-<div align="left">
-
-**Languages**
-<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,php,cpp,html,css" /></a>
-
-**Frontend**
-<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,redux" /></a>
-
-**Backend & Databases**
-<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" /></a>
-
-**Tools**
-<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,firebase,docker,figma,storybook,npm,postman" /></a>
-
-**AI tools** — `chatgpt` `claude` `copilot` `gemini` `cursor` ← yes, all five. no shame.
-
-</div>
+```json
+{
+  "languages": ["TS", "JS", "PHP", "C++", "HTML", "CSS"],
+  "frontend": ["React", "Tailwind", "Redux"],
+  "backend": ["Node.js", "Express", "MySQL", "MongoDB"],
+  "tools": ["Git", "GitHub", "Firebase", "Docker", "Figma", "Storybook", "npm", "Postman"],
+  "ai_tools": ["Claude_code", "Anti-gravity", "Hugging-face", "Codex", "Cursor"]
+}
+```
 
 ---
 
